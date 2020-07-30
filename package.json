@@ -1,0 +1,22 @@
+{
+  "name": "discord-embed-validator",
+  "version": "1.0.0",
+  "description": "Validates Discord Embeds against the API limits",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SwitchbladeBot/discord-embed-validator.git"
+  },
+  "author": "Switchblade Team <http://github.com/SwitchbladeBot>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SwitchbladeBot/discord-embed-validator/issues"
+  },
+  "homepage": "https://github.com/SwitchbladeBot/discord-embed-validator#readme",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1"
+  }
+}
