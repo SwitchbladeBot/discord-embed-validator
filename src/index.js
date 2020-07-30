@@ -61,12 +61,3 @@ module.exports = Joi.object({
     return embed
   }
 }, 'max text length')
-
-console.log(module.exports.validate({
-  title: 'This one is invalid',
-  fields: [
-    {
-      'title': 'Because this field uses "title" instead of "name", and is missing its value!'
-    }
-  ]
-}))
