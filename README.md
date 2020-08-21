@@ -2,7 +2,7 @@
 
 [joi](https://github.com/sideway/joi) schema for validating Discord Embed Objects.
 
-The official documentation for the Embed Object can be found [here](https://discord.com/developers/docs/resources/channel#embed-object), and its limit [here](https://discord.com/developers/docs/resources/channel#embed-limits).
+The official documentation for the Embed Object can be found [here](https://discord.com/developers/docs/resources/channel#embed-object), and its limits [here](https://discord.com/developers/docs/resources/channel#embed-limits).
 
 ## Install
 
